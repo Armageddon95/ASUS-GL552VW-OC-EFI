@@ -40,8 +40,8 @@ What works:
 
 
 What doesn't work:
-Keyboard backlight
-Touchpad
-Battery percentage
-Brightness control
+Keyboard backlight,
+Touchpad,
+Battery percentage,
+Brightness control,
 I used the hackintosh shop installer for the installation, since then I updated the system to 11.2.3.
