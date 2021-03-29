@@ -10,6 +10,7 @@
 - Touchpad: Elan Touchpad (ELAN1000)
 - Wifi card: Intel AC-9260 Dual-Band
 - Ports: 1x USB 2.0, 2x USB 3.0, 1x USB 3.1, HDMI, mic, earphone, SD card reader, LAN
+- Webcam: USB2.0 UVC HD Webcam
 
 
 Bootloader: Opencore 0.6.4
@@ -28,6 +29,7 @@ Bootloader: Opencore 0.6.4
 - Trackpad (with gestures)
 
 ## What doesn't work:
+- Built in webcam
 - Battery percentage
 - Sleep
 
